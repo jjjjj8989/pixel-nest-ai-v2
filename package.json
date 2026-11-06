@@ -1,0 +1,9 @@
+{
+  "name": "pixel-nest-ai-v3",
+  "version": "3.0.0",
+  "private": true,
+  "description": "PIXEL NEST AI V3 static workspace with a secure Vercel chat function",
+  "engines": {
+    "node": ">=18"
+  }
+}
